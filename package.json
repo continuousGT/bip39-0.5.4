@@ -1,0 +1,12 @@
+{
+  "name": "bip39-0.5.4",
+  "version": "1.0.0",
+  "dependencies": {
+    "get-random-values": "^2.0.0",
+    "keypress": "^0.2.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10",
+    "request": "^2.88.2"
+  }
+}
